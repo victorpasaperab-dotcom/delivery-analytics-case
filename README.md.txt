@@ -1,4 +1,4 @@
-# 🚀 Delivery Performance Analytics Dashboard
+#Delivery Performance Analytics Dashboard
 
 ## Project Overview
 This project provides a comprehensive analysis of delivery operations, focusing on 
