@@ -27,8 +27,11 @@ requirements.txt: Project dependencies.
 Follow these steps to run the dashboard locally:
 
 **Clone the repository**:
+
    git clone <https://github.com/victorpasaperab-dotcom/delivery-analytics-case>
+   
    cd delivery_analytics_case
+   
 **Create enviroment and install requirements**
    python -m venv venv
    .\venv\Scripts\activate
