@@ -28,20 +28,20 @@ Follow these steps to run the dashboard locally:
 
 **Clone the repository**:
 
-   git clone <https://github.com/victorpasaperab-dotcom/delivery-analytics-case>
+      git clone <https://github.com/victorpasaperab-dotcom/delivery-analytics-case>
    
-   cd delivery_analytics_case
+      cd delivery_analytics_case
    
 **Create enviroment and install requirements**
 
-   python -m venv venv
+      python -m venv venv
 
-   .\venv\Scripts\activate
+      .\venv\Scripts\activate
    
-   pip install -r requirements.txt
+      pip install -r requirements.txt
    
-   mkdir data
+      mkdir data
    
 **Paste csv file on data folder**
 
-   streamlit run app2.py
+      streamlit run app2.py
