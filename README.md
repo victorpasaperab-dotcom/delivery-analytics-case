@@ -14,3 +14,5 @@ It includes an interactive Streamlit dashboard for stakeholder insights.
 - **Python 3.x**: Data processing and visualization.
 - **Streamlit**: Dashboard framework.
 - **Plotly**: Interactive charting.
+
+**Run Streamlit**: Type `streamlit run app2.py`.
