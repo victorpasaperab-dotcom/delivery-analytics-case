@@ -33,9 +33,15 @@ Follow these steps to run the dashboard locally:
    cd delivery_analytics_case
    
 **Create enviroment and install requirements**
+
    python -m venv venv
+
    .\venv\Scripts\activate
+   
    pip install -r requirements.txt
+   
    mkdir data
+   
 **Paste csv file on data folder**
+
    streamlit run app2.py
